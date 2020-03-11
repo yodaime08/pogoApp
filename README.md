@@ -6,3 +6,5 @@ npx express-generator myExpressApp --no-view --git
 remplacer app.js et package.json
 npm install
 npm start
+
+https://developers.google.com/web/tools/chrome-devtools/remote-debugging
