@@ -8,3 +8,5 @@ npm install
 npm start
 
 https://developers.google.com/web/tools/chrome-devtools/remote-debugging
+
+https://itnext.io/the-absolute-easiest-way-to-debug-node-js-with-vscode-2e02ef5b1bad
